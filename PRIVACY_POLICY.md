@@ -1,6 +1,6 @@
 # Privacy Policy for SheetsUI
 
-**Last updated:** February 2025
+**Last updated:** February 2026
 
 ## Overview
 
