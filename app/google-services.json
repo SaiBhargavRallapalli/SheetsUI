@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "194562576610",
+    "project_id": "sheetsui-cb4ec",
+    "storage_bucket": "sheetsui-cb4ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194562576610:android:73192b250544f1819e4ebb",
+        "android_client_info": {
+          "package_name": "com.example.sheetsui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194562576610-67m4oattngvlqphc8snc2f305t2e1hco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sheetsui",
+            "certificate_hash": "164242caee11cf52a3a08acd03cdc1de9517a24c"
+          }
+        },
+        {
+          "client_id": "194562576610-sje5qncs4p22mf496cgff05gpp927vte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sheetsui",
+            "certificate_hash": "85070535b774e8938dc7ea94533397fa2bda6aea"
+          }
+        },
+        {
+          "client_id": "194562576610-2lg2202io4oss3da04mtq3r3vohvclkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClzsv0d_cCtRd94Odabfa9gB3DawKcd68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194562576610-2lg2202io4oss3da04mtq3r3vohvclkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194562576610:android:044e60c05373e5e99e4ebb",
+        "android_client_info": {
+          "package_name": "com.rsb.sheetsui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194562576610-n85ksr9k8rmlubk6g49vfejrs4no73bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rsb.sheetsui",
+            "certificate_hash": "85070535b774e8938dc7ea94533397fa2bda6aea"
+          }
+        },
+        {
+          "client_id": "194562576610-2lg2202io4oss3da04mtq3r3vohvclkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClzsv0d_cCtRd94Odabfa9gB3DawKcd68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194562576610-2lg2202io4oss3da04mtq3r3vohvclkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
